@@ -3,3 +3,7 @@ Hi, my name is Daniel Shaver (not the one murdered by a cop).
 The best villain is the one within our hearts.
 
 On this local copy, I prefer coffee.
+
+In this remote version, I prefer blue.
+
+In this merged version, all conflicts are resolved.
